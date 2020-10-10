@@ -15,5 +15,8 @@ node-server
 * created app.js and updated with code
 * Ran my app.js file in PowerShell with node app.js command it works well and checked in the browser.
 * By using git add . and git commit -m and git push i uploades files in to repo
+
+# references
  
- 
+ * https://github.com/denisecase/node-app
+ * https://expressjs.com/en/starter/hello-world.html
